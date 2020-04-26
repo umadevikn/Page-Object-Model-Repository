@@ -8,7 +8,7 @@ import pages.HomePage;
 
 public class HomePageTest extends BaseTest{
 	
-	
+	//First test case
 	@Test
 	public void homePageTest()
 	{
