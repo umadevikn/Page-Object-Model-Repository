@@ -15,7 +15,7 @@ public class HomePageTest extends BaseTest{
 		
 		HomePage home=new HomePage();
 		home.doLogin();	
-		Assert.fail("Home page test failed.");
+		//Assert.fail("Home page test failed.");
 		
 	}
 	
